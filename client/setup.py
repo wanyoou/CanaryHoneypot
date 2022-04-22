@@ -10,7 +10,7 @@ requirements = [
     "simplejson==3.16.0",
     "requests==2.21.0",
     "zope.interface==5.0.0",
-    "PyPDF2==1.26.0",
+    "PyPDF2==1.27.5",
     "fpdf==1.7.2",
     "passlib==1.7.1",
     "Jinja2==2.11.3",
