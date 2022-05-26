@@ -4,7 +4,7 @@ from honeypot import __version__
 
 requirements = [
     # 'cryptography==3.0',
-    "Twisted==22.1.0",
+    "Twisted==22.4.0",
     "pyasn1==0.4.5",
     "docker==5.0.0",
     "simplejson==3.16.0",
